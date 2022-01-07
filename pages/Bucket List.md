@@ -1,0 +1,4 @@
+- 죽기 전에 꼭 하고 싶은 것들을 정리한 목록
+- Kick the bucket에서 유래한 것으로 추정됨
+- # Reference
+- https://ko.wikipedia.org/wiki/버킷_리스트_(동음이의)

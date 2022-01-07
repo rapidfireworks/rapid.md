@@ -1,0 +1,3 @@
+- 불특정 다수가 협업을 통해 직접 내용과 구조를 수정할 수 있는 웹사이트
+- # Reference
+- https://ko.wikipedia.org/wiki/위키

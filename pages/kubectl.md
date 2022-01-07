@@ -1,0 +1,6 @@
+- 쿠버네티스 클러스터를 제어하기 위한 커맨드 라인 도구
+- # Pronunciation
+- 쿱컨트롤
+- # Reference
+- https://kubernetes.io/ko/docs/reference/kubectl/overview/
+- https://www.bluematador.com/blog/how-to-pronounce-kubernetes

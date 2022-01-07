@@ -1,0 +1,6 @@
+- minikube implements a local Kubernetes cluster on macOS, Linux, and Windows. minikube's primary goals are to be the best tool for local Kubernetes application development and to support all Kubernetes features that fit.
+- # Pronunciation
+- 미니쿱
+- # Reference
+- https://github.com/kubernetes/minikube
+- https://www.bluematador.com/blog/how-to-pronounce-kubernetes

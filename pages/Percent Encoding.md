@@ -1,0 +1,4 @@
+- [[URL]]에 문자를 표현하는 문자 인코딩 방법
+- # Reference
+- https://ko.wikipedia.org/wiki/퍼센트_인코딩
+- https://datatracker.ietf.org/doc/html/rfc3986#section-2.1
