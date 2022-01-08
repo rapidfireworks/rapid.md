@@ -1,0 +1,13 @@
+- 컴퓨터 네트워크 프로토콜 디자인과 통신을 계층으로 나누어 설명한 모델
+- [[ISO]]에서 개발
+- Open Systems Interconnection Model
+- # Layer
+- [[OSI Physical Layer]]
+- [[OSI Datalink Layer]]
+- [[OSI Network Layer]]
+- [[OSI Transport Layer]]
+- [[OSI Session Layer]]
+- [[OSI Presentation Layer]]
+- [[OSI Application Layer]]
+- # Reference
+- https://ko.wikipedia.org/wiki/OSI_모형

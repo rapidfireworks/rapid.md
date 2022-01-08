@@ -1,0 +1,3 @@
+- [[Caffe Espresso]] 추출 시, 한 번에 더 많은 양이 나오도록 오래 추출한 [[Coffee]] 로, 더욱 쓴맛이 난다.
+- # Reference
+- https://ko.wikipedia.org/wiki/에스프레소#에스프레소_용어와_베리에이션
