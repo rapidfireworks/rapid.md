@@ -1,0 +1,3 @@
+- 상단 툴바에서 뷰 옵션을 설정한다.
+- View - Show View Options (Cmd + J)
+- Always Open in ${VIEW_OPTION} 체크

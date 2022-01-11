@@ -1,0 +1,5 @@
+- [[Phillip R. Zimmermann]]이 개발한 컴퓨터 파일을 암호화하고 복호화하는 프로그램
+- 전 세계적으로 보편화되어 있지만, [[대한민국 전자서명법]]상의 보호를 받는 전자서명으로 인정되지는 않는다.
+- Pretty Good Privacy
+- # Reference
+- https://ko.wikipedia.org/wiki/PGP_(소프트웨어)

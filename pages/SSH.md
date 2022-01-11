@@ -1,0 +1,5 @@
+- [[Network]] 상의 다른 [[Computer]]에 로그인하거나 원격 시스템에서 명령을 실행하고 다른 시스템으로 파일을 복사할 수 있도록 해주는 응용 프로그램 또는 그 프로토콜
+- 보안 문제가 있는 기존의 [[RSH]], [[rlogin]], [[TELNET]] 등을 대체하기 위해 설계되었다.
+- Secure Shell
+- # Reference
+- https://ko.wikipedia.org/wiki/시큐어_셸
