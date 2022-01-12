@@ -1,0 +1,3 @@
+- [[UNIX]] 계열 [[OS]]의 시간 기반 Job Scheduler
+- # Reference
+- https://ko.wikipedia.org/wiki/Cron

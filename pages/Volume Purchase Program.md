@@ -1,0 +1,4 @@
+- [[Apple Business Manger]]나 [[Apple School Manager]]를 이용중인 디바이스로 사용하려는 앱의 [[License]]를 대량으로 구매하는 방식
+- # Reference
+- https://docs.microsoft.com/ko-kr/mem/intune/apps/vpp-apps-ios
+- https://images.apple.com/business-docs/VPP_Business_Guide.pdf

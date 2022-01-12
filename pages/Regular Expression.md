@@ -1,0 +1,3 @@
+- 특정한 규칙을 가진 문자열의 집합을 표현하는 데 사용하는 [[Formal Language]]
+- # Reference
+- https://ko.wikipedia.org/wiki/정규_표현식

@@ -1,0 +1,3 @@
+- 대규모 조직이 조직 내부에서만 사용하는 전용 앱을 개발하여 직원에게 배포하는 방식
+- # Reference
+- https://developer.apple.com/kr/programs/enterprise/
