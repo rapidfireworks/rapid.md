@@ -1,0 +1,10 @@
+- [[C]], [[Objective-C]], [[C++]]을 위한 [[Macro]] 전처리기로, 전처리 결과물은 실제 [[Compiler]]로 전달한다.
+- # 단계
+- 파일 포함하기
+- 조건부 컴파일하기
+- 매크로 정의와 확장
+- 특별한 매크로와 지시문
+- # Reference
+- https://ko.wikipedia.org/wiki/C_전처리기
+- https://courses.cs.washington.edu/courses/cse378/97au/help/compilation.html
+- https://docs.microsoft.com/ko-kr/cpp/preprocessor/preprocessor-directives?view=msvc-170

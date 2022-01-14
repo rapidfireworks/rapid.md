@@ -1,0 +1,3 @@
+- 입력 데이터를 처리하여 다른 프로그램에 대한 입력으로 사용되는 출력물을 만들어내는 프로그램
+- # Reference
+- https://ko.wikipedia.org/wiki/전처리기
