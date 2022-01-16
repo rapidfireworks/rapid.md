@@ -1,0 +1,3 @@
+- 노드들이 자원을 공유할 수 있게 하는 디지털 전기통신망의 하나
+- # Reference
+- https://en.wikipedia.org/wiki/Complex_network

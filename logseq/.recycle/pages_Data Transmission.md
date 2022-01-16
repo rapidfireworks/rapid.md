@@ -1,0 +1,3 @@
+- 한 위치에서 다른 위치로 어떠한 정보를 전송하는 것
+- # Reference
+- https://ko.wikipedia.org/wiki/데이터_전송

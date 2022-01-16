@@ -43,15 +43,24 @@
  {:block/name "card",
   :block/created-at 1641520897539,
   :block/updated-at 1641520897539}
+ {:block/name "circuit switching",
+  :block/created-at 1642308086631,
+  :block/updated-at 1642308221389}
  {:block/name "coffee",
   :block/created-at 1641629936118,
   :block/updated-at 1641629936118}
+ {:block/name "communication protocol",
+  :block/created-at 1642300207779,
+  :block/updated-at 1642300215756}
  {:block/name "compiler",
   :block/created-at 1642206888442,
   :block/updated-at 1642206888442}
  {:block/name "computer",
   :block/created-at 1641865286861,
   :block/updated-at 1641865286861}
+ {:block/name "computer network",
+  :block/created-at 1641865286861,
+  :block/updated-at 1642299552039}
  {:block/name "container",
   :block/created-at 1641520897539,
   :block/updated-at 1641520897539}
@@ -73,6 +82,9 @@
  {:block/name "crontab",
   :block/created-at 1641954605730,
   :block/updated-at 1641954613558}
+ {:block/name "data",
+  :block/created-at 1642299399745,
+  :block/updated-at 1642299413350}
  {:block/name "directory",
   :block/created-at 1641989056689,
   :block/updated-at 1641989056689}
@@ -103,6 +115,9 @@
  {:block/name "espresso lungo",
   :block/created-at 1641613071856,
   :block/updated-at 1641630033045}
+ {:block/name "ethernet",
+  :block/created-at 1642332788764,
+  :block/updated-at 1642332788764}
  {:block/name "ethernet frame",
   :block/created-at 1642206888440,
   :block/updated-at 1642206888440}
@@ -112,12 +127,21 @@
  {:block/name "ethernet frame trailer",
   :block/created-at 1642206888442,
   :block/updated-at 1642206888442}
+ {:block/name "ethernet hub",
+  :block/created-at 1642311346700,
+  :block/updated-at 1642311515225}
+ {:block/name "ethernet segment",
+  :block/created-at 1642332788764,
+  :block/updated-at 1642332788764}
  {:block/name "favorites",
   :block/created-at 1641520897538,
   :block/updated-at 1641520897538}
  {:block/name "firefox",
   :block/created-at 1641520897539,
   :block/updated-at 1641520897539}
+ {:block/name "flooding",
+  :block/created-at 1642311486431,
+  :block/updated-at 1642311498396}
  {:block/name "formal language",
   :block/created-at 1641989056690,
   :block/updated-at 1641989056690}
@@ -154,6 +178,9 @@
  {:block/name "in-progress",
   :block/created-at 1641520897539,
   :block/updated-at 1641520897539}
+ {:block/name "interface",
+  :block/created-at 1642299855789,
+  :block/updated-at 1642299974478}
  {:block/name "ip address",
   :block/created-at 1641865286861,
   :block/updated-at 1641865286861}
@@ -177,7 +204,7 @@
   :block/updated-at 1642150395698}
  {:block/name "jan 16th, 2022",
   :block/created-at 1642291200000,
-  :block/updated-at 1642291200000}
+  :block/updated-at 1642332743581}
  {:block/name "jan 7th, 2022",
   :block/created-at 1641513600000,
   :block/updated-at 1641778538678}
@@ -220,9 +247,6 @@
  {:block/name "minikube",
   :block/created-at 1641547377361,
   :block/updated-at 1641547377361}
- {:block/name "network",
-  :block/created-at 1641865286861,
-  :block/updated-at 1641865286861}
  {:block/name "network interface controller",
   :block/created-at 1642120721296,
   :block/updated-at 1642120766532}
@@ -268,6 +292,9 @@
  {:block/name "packet",
   :block/created-at 1642206888442,
   :block/updated-at 1642206888442}
+ {:block/name "packet switching",
+  :block/created-at 1642308301422,
+  :block/updated-at 1642310268414}
  {:block/name "percent encoding",
   :block/created-at 1641547377361,
   :block/updated-at 1641560633618}
@@ -286,6 +313,9 @@
  {:block/name "rlogin",
   :block/created-at 1641865286861,
   :block/updated-at 1641865286861}
+ {:block/name "router",
+  :block/created-at 1642311611304,
+  :block/updated-at 1642311661030}
  {:block/name "rsh",
   :block/created-at 1641865286861,
   :block/updated-at 1641865286861}
@@ -304,6 +334,9 @@
  {:block/name "todo",
   :block/created-at 1641520897539,
   :block/updated-at 1641520897539}
+ {:block/name "transmission medium",
+  :block/created-at 1642299698390,
+  :block/updated-at 1642299719071}
  {:block/name "tutorial",
   :block/created-at 1641865286861,
   :block/updated-at 1641865286861}
@@ -327,7 +360,7 @@
   :block/updated-at 1641547377362}
  {:block/name "wol",
   :block/created-at 1641865148884,
-  :block/updated-at 1641865284198}
+  :block/updated-at 1642299002228}
  {:block/name "대한민국 전자서명법",
   :block/created-at 1641865286861, 
   :block/updated-at 1641865286861}]

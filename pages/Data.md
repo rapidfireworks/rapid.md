@@ -1,0 +1,3 @@
+- 문자, 숫자, 소리, 그림, 영상, 단어 등의 형태로 된 의미 단위
+- # Reference
+- https://ko.wikipedia.org/wiki/자료

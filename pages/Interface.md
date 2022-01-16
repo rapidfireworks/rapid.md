@@ -1,0 +1,4 @@
+- 서로 다른 두 시스템, 장치, 소프트웨어 따위를 서로 이어 주는 부분, 또는 그런 접속 장치
+- # Reference
+- https://ko.dict.naver.com/#/entry/koko/780e996aabb748788158079de5b19d4c
+- https://ko.wikipedia.org/wiki/인터페이스

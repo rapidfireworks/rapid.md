@@ -1,0 +1,3 @@
+- 모든 들어오는 패킷이 도착한 링크를 제외한 모든 나가는 링크를 통해 전송되는 컴퓨터 네트워크 라우팅 알고리즘
+- # Reference
+- https://en.wikipedia.org/wiki/Flooding_(computer_networking)

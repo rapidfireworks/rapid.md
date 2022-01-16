@@ -1,0 +1,3 @@
+- [[Ethernet]] 네트워크에서 여러 대의 [[Computer]], 네트워크 장비를 연결하여 [[Flooding]]동작을 수행하는 장치
+- # Reference
+- https://ko.wikipedia.org/wiki/이더넷_허브
