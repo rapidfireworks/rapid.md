@@ -1,0 +1,3 @@
+- 미세한 입력값의 변화에도 출력값에 상당한 변화가 일어나는 암호 알고리즘의 성질
+- # Reference
+- https://ko.wikipedia.org/wiki/쇄도_효과

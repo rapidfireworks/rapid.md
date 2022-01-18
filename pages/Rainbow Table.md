@@ -1,0 +1,3 @@
+- [[Hash Function]]를 사용하여 변환 가능한 모든 [[Message Digest]] 을 저장시켜 놓은 표로, 해시 함수를 이용하여 저장된 비밀번호로부터 원래의 비밀번호를 추출해 내는데 사용된다.
+- # Reference
+- https://ko.wikipedia.org/wiki/레인보_테이블

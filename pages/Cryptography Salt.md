@@ -1,0 +1,3 @@
+- [[Hash Function]]의 추가 입력으로 사용되는 랜덤 데이터
+- # Reference
+- https://ko.wikipedia.org/wiki/솔트_(암호학)

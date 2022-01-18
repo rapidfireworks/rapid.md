@@ -1,0 +1,3 @@
+- 무차별 대입 공격
+- # Reference
+- https://ko.wikipedia.org/wiki/무차별_대입_공격

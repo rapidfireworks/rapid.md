@@ -1,0 +1,3 @@
+- 해시 알고리즘에서의 해시값
+- # Reference
+- https://ko.wikipedia.org/wiki/다이제스트_(암호학)
