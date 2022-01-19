@@ -1,0 +1,3 @@
+- 드넓은 지리적 거리 및 장소를 넘나드는 광역 통신망
+- # Reference
+- https://ko.wikipedia.org/wiki/광역_통신망

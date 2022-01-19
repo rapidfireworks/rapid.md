@@ -1,0 +1,3 @@
+- 구축한 사용자가 직접 관리 및 운영하는 근거리 통신망
+- # Reference
+- https://ko.wikipedia.org/wiki/근거리_통신망

@@ -1,0 +1,3 @@
+- 리처드 스톨먼의 주도하에 시작된 공개 소프트웨어 프로젝트
+- # Reference
+- https://ko.wikipedia.org/wiki/GNU_프로젝트

@@ -175,15 +175,18 @@
  {:block/name "github actions workflow",
   :block/created-at 1642206888442,
   :block/updated-at 1642206888442}
- {:block/name "gnu",
-  :block/created-at 1641865286861,
-  :block/updated-at 1641865286861}
+ {:block/name "gnu privacy guard",
+  :block/created-at 1642466675311,
+  :block/updated-at 1642466680919}
+ {:block/name "gnu project",
+  :block/created-at 1642466665517,
+  :block/updated-at 1642466672781}
  {:block/name "google",
   :block/created-at 1641520897539,
   :block/updated-at 1641520897539}
  {:block/name "gpg",
   :block/created-at 1641864100884,
-  :block/updated-at 1641864154720}
+  :block/updated-at 1642466619342}
  {:block/name "grep",
   :block/created-at 1641989056689,
   :block/updated-at 1641989056689}
@@ -196,12 +199,24 @@
  {:block/name "interface",
   :block/created-at 1642299855789,
   :block/updated-at 1642299974478}
+ {:block/name "international organization for standardization",
+  :block/created-at 1642466697996,
+  :block/updated-at 1642466697996}
+ {:block/name "internet",
+  :block/created-at 1642465927467,
+  :block/updated-at 1642465947372}
+ {:block/name "internet service provider",
+  :block/created-at 1642466555655,
+  :block/updated-at 1642466555655}
  {:block/name "ip address",
   :block/created-at 1641865286861,
   :block/updated-at 1641865286861}
  {:block/name "iso",
   :block/created-at 1641781589996,
-  :block/updated-at 1641781589996}
+  :block/updated-at 1642466579989}
+ {:block/name "isp",
+  :block/created-at 1642465629016,
+  :block/updated-at 1642466547549}
  {:block/name "jan 10th, 2022",
   :block/created-at 1641772800000,
   :block/updated-at 1641772800000}
@@ -223,6 +238,9 @@
  {:block/name "jan 17th, 2022",
   :block/created-at 1642377600000,
   :block/updated-at 1642380089110}
+ {:block/name "jan 18th, 2022",
+  :block/created-at 1642464000000,
+  :block/updated-at 1642466656396}
  {:block/name "jan 7th, 2022",
   :block/created-at 1641513600000,
   :block/updated-at 1641778538678}
@@ -250,6 +268,9 @@
  {:block/name "kubernetes",
   :block/created-at 1641526772036,
   :block/updated-at 1641526772036}
+ {:block/name "lan",
+  :block/created-at 1642465323455,
+  :block/updated-at 1642465342288}
  {:block/name "later",
   :block/created-at 1641520897539,
   :block/updated-at 1641520897539}
@@ -385,12 +406,18 @@
  {:block/name "waiting",
   :block/created-at 1641520897538,
   :block/updated-at 1641520897538}
+ {:block/name "wan",
+  :block/created-at 1642465493786,
+  :block/updated-at 1642465502368}
  {:block/name "wiki",
   :block/created-at 1641547377362,
   :block/updated-at 1641547377362}
  {:block/name "wol",
   :block/created-at 1641865148884,
   :block/updated-at 1642299002228}
+ {:block/name "관할",
+  :block/created-at 1642465226717,
+  :block/updated-at 1642465238167}
  {:block/name "대한민국 전자서명법",
   :block/created-at 1641865286861, 
   :block/updated-at 1641865286861}]
