@@ -1,0 +1,3 @@
+- [[WAP]]가 없어도 장치들을 쉽게 연결할 수 있도록 하는 [[Wi-Fi]] 표준
+- # Reference
+- https://ko.wikipedia.org/wiki/와이파이_다이렉트

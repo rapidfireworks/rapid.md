@@ -1,0 +1,3 @@
+- 1994년에 [[Ericsson]]이 최초로 개발한 디지털 통신 기기를 위한 개인 근거리 무선 통신 산업 표준
+- # Reference
+- https://ko.wikipedia.org/wiki/블루투스

@@ -1,0 +1,3 @@
+- [[Bluetooth]] 및 [[Wi-Fi Direct]]를 통해 다른 [[Apple]] 장치와 파일을 공유하는 기술
+- # Reference
+- https://ko.wikipedia.org/wiki/에어드롭
