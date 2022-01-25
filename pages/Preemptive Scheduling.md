@@ -1,0 +1,3 @@
+- [[Time Sharing System]]에서 타임 슬라이스가 소진되었거나, [[Interrupt]]나 시스템 호출 종료 시에 더 높은 우선 순위 프로세스가 발생 되었음을 알았을 때, 현 실행 프로세스로부터 강제로 CPU를 회수하는 스케줄링 기법
+- # Reference
+- https://ko.wikipedia.org/wiki/선점_스케줄링

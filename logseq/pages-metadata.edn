@@ -85,12 +85,18 @@
  {:block/name "contents",
   :block/created-at 1641547377361,
   :block/updated-at 1641547377361}
+ {:block/name "context switching",
+  :block/created-at 1643079580190,
+  :block/updated-at 1643079580190}
  {:block/name "continuous delivery",
   :block/created-at 1642206888442,
   :block/updated-at 1642206888442}
  {:block/name "continuous integration",
   :block/created-at 1642206888441,
   :block/updated-at 1642206888441}
+ {:block/name "cooperative scheduling",
+  :block/created-at 1643076566265,
+  :block/updated-at 1643076644159}
  {:block/name "crc",
   :block/created-at 1642206888440,
   :block/updated-at 1642206888440}
@@ -106,9 +112,12 @@
  {:block/name "data",
   :block/created-at 1642299399745,
   :block/updated-at 1642299413350}
+ {:block/name "database",
+  :block/created-at 1643079580191,
+  :block/updated-at 1643079580191}
  {:block/name "dhcp",
   :block/created-at 1642723086373,
-  :block/updated-at 1642723154494}
+  :block/updated-at 1643078213664}
  {:block/name "directory",
   :block/created-at 1641989056689,
   :block/updated-at 1641989056689}
@@ -131,8 +140,8 @@
   :block/created-at 1641520897539,
   :block/updated-at 1641520897539}
  {:block/name "dynamic host configuration protocol",
-  :block/created-at 1642723182785,
-  :block/updated-at 1642723182785}
+  :block/created-at 1643079580191,
+  :block/updated-at 1643079580191}
  {:block/name "egrep",
   :block/created-at 1641975257496,
   :block/updated-at 1641975460087}
@@ -207,16 +216,22 @@
   :block/updated-at 1641520897539}
  {:block/name "gpg",
   :block/created-at 1641864100884,
-  :block/updated-at 1642466619342}
+  :block/updated-at 1643078177871}
  {:block/name "grep",
   :block/created-at 1641989056689,
   :block/updated-at 1641989056689}
  {:block/name "hash function",
   :block/created-at 1642464810646,
   :block/updated-at 1642464810646}
+ {:block/name "hikaricp",
+  :block/created-at 1643077882980,
+  :block/updated-at 1643077894319}
  {:block/name "in-progress",
   :block/created-at 1641520897539,
   :block/updated-at 1641520897539}
+ {:block/name "intellij idea",
+  :block/created-at 1643079580191,
+  :block/updated-at 1643079580191}
  {:block/name "interface",
   :block/created-at 1642299855789,
   :block/updated-at 1642299974478}
@@ -229,6 +244,9 @@
  {:block/name "internet service provider",
   :block/created-at 1642466555655,
   :block/updated-at 1642466555655}
+ {:block/name "interrupt",
+  :block/created-at 1643079580191,
+  :block/updated-at 1643079580191}
  {:block/name "ip",
   :block/created-at 1642723027292,
   :block/updated-at 1642723027292}
@@ -237,10 +255,10 @@
   :block/updated-at 1641865286861}
  {:block/name "iso",
   :block/created-at 1641781589996,
-  :block/updated-at 1642466579989}
+  :block/updated-at 1643078193718}
  {:block/name "isp",
   :block/created-at 1642465629016,
-  :block/updated-at 1642466547549}
+  :block/updated-at 1643078155313}
  {:block/name "jan 10th, 2022",
   :block/created-at 1641772800000,
   :block/updated-at 1641772800000}
@@ -274,6 +292,9 @@
  {:block/name "jan 21st, 2022",
   :block/created-at 1642723200000,
   :block/updated-at 1642723071292}
+ {:block/name "jan 25th, 2022",
+  :block/created-at 1643071778957,
+  :block/updated-at 1643088883801}
  {:block/name "jan 7th, 2022",
   :block/created-at 1641513600000,
   :block/updated-at 1641778538678}
@@ -283,6 +304,12 @@
  {:block/name "java",
   :block/created-at 1642592540012,
   :block/updated-at 1642592540012}
+ {:block/name "java database connectivity",
+  :block/created-at 1643079580191,
+  :block/updated-at 1643079580191}
+ {:block/name "jdbc",
+  :block/created-at 1643077921926,
+  :block/updated-at 1643078055450}
  {:block/name "k8s helm",
   :block/created-at 1641981628993,
   :block/updated-at 1641981648014}
@@ -337,6 +364,9 @@
  {:block/name "nic",
   :block/created-at 1642206888440,
   :block/updated-at 1642206888440}
+ {:block/name "non-preemptive scheduling",
+  :block/created-at 1643079580191,
+  :block/updated-at 1643079580191}
  {:block/name "now",
   :block/created-at 1641520897539,
   :block/updated-at 1641520897539}
@@ -391,6 +421,9 @@
  {:block/name "phillip r. zimmermann",
   :block/created-at 1641865286861,
   :block/updated-at 1641865286861}
+ {:block/name "preemptive scheduling",
+  :block/created-at 1643076497994,
+  :block/updated-at 1643076654035}
  {:block/name "preprocessor",
   :block/created-at 1642042738143,
   :block/updated-at 1642042747955}
@@ -406,6 +439,9 @@
  {:block/name "rlogin",
   :block/created-at 1641865286861,
   :block/updated-at 1641865286861}
+ {:block/name "rosetta",
+  :block/created-at 1643100859670,
+  :block/updated-at 1643100859670}
  {:block/name "router",
   :block/created-at 1642311611304,
   :block/updated-at 1642311661030}
@@ -424,6 +460,9 @@
  {:block/name "telnet",
   :block/created-at 1641865286861,
   :block/updated-at 1641865286861}
+ {:block/name "time sharing system",
+  :block/created-at 1643079580190,
+  :block/updated-at 1643079580190}
  {:block/name "todo",
   :block/created-at 1641520897539,
   :block/updated-at 1641520897539}
