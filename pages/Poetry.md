@@ -1,0 +1,3 @@
+- Poetry is a tool for dependency management and packaging in Python.
+- # Reference
+- https://python-poetry.org/docs/

@@ -1,0 +1,3 @@
+- Install and Run Python Applications in Isolated Environments
+- # Reference
+- https://github.com/pypa/pipx

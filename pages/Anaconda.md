@@ -1,0 +1,3 @@
+- 패키지 관리와 디플로이를 단순케 할 목적으로 과학 계산을 위한 [[Python]]과 R 프로그래밍 언어의 자유-오픈 소스 배포판
+- # Reference
+- https://ko.wikipedia.org/wiki/아나콘다_(파이썬_배포판)

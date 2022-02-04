@@ -1,0 +1,3 @@
+- Console is text entry and display device for system administration messages, particularly those from the BIOS or boot loader, the kernel, from the init system and from the system logger.
+- # Reference
+- https://en.wikipedia.org/wiki/System_console

@@ -13,6 +13,9 @@
  {:block/name "airdrop",
   :block/created-at 1642571418732,
   :block/updated-at 1642571557800}
+ {:block/name "anaconda",
+  :block/created-at 1643803093323,
+  :block/updated-at 1643803126212}
  {:block/name "apple",
   :block/created-at 1642572083510,
   :block/updated-at 1642572083510}
@@ -25,6 +28,9 @@
  {:block/name "apple school manager",
   :block/created-at 1641989056689,
   :block/updated-at 1641989056689}
+ {:block/name "asdf-vm",
+  :block/created-at 1643873472258,
+  :block/updated-at 1643873472258}
  {:block/name "avalanche effect",
   :block/created-at 1642378055124,
   :block/updated-at 1642378070831}
@@ -184,6 +190,15 @@
  {:block/name "favorites",
   :block/created-at 1641520897538,
   :block/updated-at 1641520897538}
+ {:block/name "feb 2nd, 2022",
+  :block/created-at 1643760000000,
+  :block/updated-at 1643803764624}
+ {:block/name "feb 3rd, 2022",
+  :block/created-at 1643857068046,
+  :block/updated-at 1643873453825}
+ {:block/name "feb 4th, 2022",
+  :block/created-at 1643951822043,
+  :block/updated-at 1643951859963}
  {:block/name "firefox",
   :block/created-at 1641520897539,
   :block/updated-at 1641520897539}
@@ -322,6 +337,9 @@
  {:block/name "jdbc",
   :block/created-at 1643077921926,
   :block/updated-at 1643078055450}
+ {:block/name "jupyter notebook",
+  :block/created-at 1643803211542,
+  :block/updated-at 1643803228789}
  {:block/name "k8s helm",
   :block/created-at 1641981628993,
   :block/updated-at 1641981648014}
@@ -433,12 +451,21 @@
  {:block/name "phillip r. zimmermann",
   :block/created-at 1641865286861,
   :block/updated-at 1641865286861}
+ {:block/name "pipx",
+  :block/created-at 1643857080690,
+  :block/updated-at 1643857089196}
+ {:block/name "poetry",
+  :block/created-at 1643861677992,
+  :block/updated-at 1643861684580}
  {:block/name "preemptive scheduling",
   :block/created-at 1643076497994,
   :block/updated-at 1643076654035}
  {:block/name "preprocessor",
   :block/created-at 1642042738143,
   :block/updated-at 1642042747955}
+ {:block/name "python",
+  :block/created-at 1643873472258,
+  :block/updated-at 1643873472258}
  {:block/name "rainbow table",
   :block/created-at 1642378451672,
   :block/updated-at 1642378495847}
@@ -475,6 +502,9 @@
  {:block/name "swiftui",
   :block/created-at 1643274149897,
   :block/updated-at 1643274149897}
+ {:block/name "system console",
+  :block/created-at 1643803774966,
+  :block/updated-at 1643803835065}
  {:block/name "telnet",
   :block/created-at 1641865286861,
   :block/updated-at 1641865286861}
