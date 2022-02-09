@@ -1,0 +1,51 @@
+- # View Life Cycle
+- onAppear
+- onDisappear
+	- NavigationLink 동작 시 발생
+	- 동일한 ZStack 내의 상단 뷰로 가려도 발생하지 않음
+	- sheet로 가려도 발생하지 않음
+	- fullScreenCover로 가려도 발생하지 않음
+- task
+	- disappear 시 동작이 취소됨
+- ### Reference
+- https://developer.apple.com/documentation/swiftui/view-input-and-events
+- # Navigation
+- Push
+	- https://developer.apple.com/documentation/swiftui/navigationlink
+- Pop
+- Present
+	- https://swiftuirecipes.com/blog/swiftui-full-screen-cover-on-ios-13
+- Dismiss
+	- https://developer.apple.com/documentation/swiftui/presentationmode
+	- https://developer.apple.com/documentation/swiftui/environmentvalues/dismiss
+- BottomSheet
+	- https://github.com/LucasMucGH/BottomSheet
+- ### Reference
+- https://developer.apple.com/documentation/swiftui/presentation-containers
+- # Data Flow
+- State
+- Binding
+- ObservedObject
+- EnvironmentObject
+	- Compiler의 도움을 받지 않는 기능으로 사용을 지양하려함
+- StateObject
+- ObservableObject
+- ### Reference
+- https://developer.apple.com/documentation/swiftui/state-and-data-flow
+- # Layout
+- NavigationBar
+	- https://sarunw.com/posts/custom-navigation-bar-title-view-in-swiftui/
+- Introspect
+	- https://github.com/siteline/SwiftUI-Introspect
+- Dark mode only
+	- https://stackoverflow.com/questions/63230569/swiftui-force-view-to-use-light-or-dark-mode
+- Context Menu
+	- https://github.com/aheze/Popovers
+- Hide Navigation Bar
+	- title을 ""로 하고, back button도 숨겨야함
+	- navigation bar 숨기면 pan gesture를 통한 pop 불가능
+- ScrollView or Full Height
+- # Misc.
+- 이전 view의 state 업데이트에 따라 list의 아이템 개수가 바뀔 경우 navigation pop이 일어남
+	- 원인은 이전 뷰의 NavigationLink가 사라지면서 발생하는 것으로 추정됨
+- iOS 13에서 14로 넘어가면서 API가 많이 바뀜
