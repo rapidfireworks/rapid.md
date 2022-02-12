@@ -20,6 +20,10 @@
 	- https://developer.apple.com/documentation/swiftui/environmentvalues/dismiss
 - BottomSheet
 	- https://github.com/LucasMucGH/BottomSheet
+- Pop to root
+	- Pass isActive binding of root view navigation link
+		- isActive를 false로 변경하는 closure를 전달하는 편이 나아보임
+	- https://stackoverflow.com/questions/57334455/swiftui-how-to-pop-to-root-view
 - ### Reference
 - https://developer.apple.com/documentation/swiftui/presentation-containers
 - # Data Flow
@@ -49,3 +53,26 @@
 - 이전 view의 state 업데이트에 따라 list의 아이템 개수가 바뀔 경우 navigation pop이 일어남
 	- 원인은 이전 뷰의 NavigationLink가 사라지면서 발생하는 것으로 추정됨
 - iOS 13에서 14로 넘어가면서 API가 많이 바뀜
+- google sign in
+	- https://stackoverflow.com/questions/68395772/cannot-find-type-gidsignindelegate-in-scope
+- # Schedule
+- 1
+	- 0221-0225
+	- 0228-0304
+	- 0307-0311
+- 2
+	- 0314-0318
+	- 0321-0325
+- 3
+	- 0328-0401
+- Todo
+	- 화면
+		- 듣다
+		- 읽다
+		- 리추얼
+		- 리추얼 구성
+		- 감정
+		- 일기
+	- 기능
+		- 재생
+		- http 요청

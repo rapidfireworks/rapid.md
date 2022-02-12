@@ -1,0 +1,5 @@
+- 직사각형 격자의 화소, 색의 점을 모니터, 종이 등의 매체에 표시하는 자료 구조이다.
+- 래스터는 원래 고무래, 갈퀴, 흙손과 같은 연장을 뜻하는 말
+- # Reference
+- https://ko.wikipedia.org/wiki/래스터_그래픽스
+- https://terms.naver.com/entry.naver?docId=3435889&cid=42346&categoryId=42346
