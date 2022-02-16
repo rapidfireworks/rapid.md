@@ -1,0 +1,3 @@
+- An Xcode scheme defines a collection of targets to build, a configuration to use when building, and a collection of tests to execute.
+- # Reference
+- https://developer.apple.com/library/archive/featuredarticles/XcodeConcepts/Concept-Schemes.html

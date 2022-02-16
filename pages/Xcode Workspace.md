@@ -1,0 +1,3 @@
+- A workspace is an Xcode document that groups projects and other documents so you can work on them together. A workspace can contain any number of Xcode projects, plus any other files you want to include. In addition to organizing all the files in each Xcode project, a workspace provides implicit and explicit relationships among the included projects and their targets.
+- # Reference
+- https://developer.apple.com/library/archive/featuredarticles/XcodeConcepts/Concept-Workspace.html

@@ -1,0 +1,3 @@
+- A build setting is a variable that contains information about how a particular aspect of a product’s build process should be performed. For example, the information in a build setting can specify which options Xcode passes to the compiler.
+- # Reference
+- https://developer.apple.com/library/archive/featuredarticles/XcodeConcepts/Concept-Build_Settings.html

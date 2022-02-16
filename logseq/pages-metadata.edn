@@ -202,12 +202,12 @@
  {:block/name "feb 10th, 2022",
   :block/created-at 1644451200000,
   :block/updated-at 1644450966989}
- {:block/name "feb 12th, 2022",
-  :block/created-at 1644624000000,
-  :block/updated-at 1644624000000}
  {:block/name "feb 14th, 2022",
   :block/created-at 1644796800000,
-  :block/updated-at 1644796800000}
+  :block/updated-at 1644800371610}
+ {:block/name "feb 15th, 2022",
+  :block/created-at 1644883058287,
+  :block/updated-at 1644883405532}
  {:block/name "feb 2nd, 2022",
   :block/created-at 1643760000000,
   :block/updated-at 1643803764624}
@@ -235,6 +235,12 @@
  {:block/name "formal language",
   :block/created-at 1641989056690,
   :block/updated-at 1641989056690}
+ {:block/name "funarg problem",
+  :block/created-at 1644800385558,
+  :block/updated-at 1644800820143}
+ {:block/name "function argument problem",
+  :block/created-at 1644970034248,
+  :block/updated-at 1644970034248}
  {:block/name "geotiff",
   :block/created-at 1644449682795,
   :block/updated-at 1644449804267}
@@ -643,6 +649,21 @@
  {:block/name "xcode",
   :block/created-at 1643241491127,
   :block/updated-at 1643241491127}
+ {:block/name "xcode build settings",
+  :block/created-at 1644883368088,
+  :block/updated-at 1644883382013}
+ {:block/name "xcode project",
+  :block/created-at 1644883275038,
+  :block/updated-at 1644883322037}
+ {:block/name "xcode scheme",
+  :block/created-at 1644883411898,
+  :block/updated-at 1644883418632}
+ {:block/name "xcode target",
+  :block/created-at 1644883159331,
+  :block/updated-at 1644883246852}
+ {:block/name "xcode workspace",
+  :block/created-at 1644883064795,
+  :block/updated-at 1644883433422}
  {:block/name "관할",
   :block/created-at 1642465226717,
   :block/updated-at 1642465238167}
