@@ -1,0 +1,8 @@
+- Implement batch and streaming data processing jobs that run on any execution engine.
+- # Runner
+- Apache Flink
+- [[Apache Spark]]
+- Apache Samza
+- Apache Nemo
+- # Reference
+- https://beam.apache.org/
