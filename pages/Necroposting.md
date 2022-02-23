@@ -1,0 +1,3 @@
+- A message that revives an arbitrarily old thread, causing it to appear above newer and more active threads.
+- # Reference
+- https://en.wikipedia.org/wiki/Internet_forum#Necroposting
