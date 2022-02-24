@@ -1,0 +1,3 @@
+- A dependency manager for .NET with support for NuGet packages and git repositories.
+- # Reference
+- https://github.com/fsprojects/Paket
