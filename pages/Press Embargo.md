@@ -1,0 +1,3 @@
+- 취재한 사안을 보도하는 것을 일정 기간 미루기로 약속하는 것을 말한다.
+- # Reference
+- https://ko.wikipedia.org/wiki/뉴스_엠바고
