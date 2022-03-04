@@ -1,0 +1,5 @@
+- 사용자의 언어, 국가뿐 아니라 사용자 인터페이스에서 사용자가 선호하는 사항을 지정한 매개 변수의 모임
+- # Format
+- `[language[_territory][.codeset][@modifier]]`
+- # Reference
+- https://ko.wikipedia.org/wiki/로케일
