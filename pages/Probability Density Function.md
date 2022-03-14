@@ -1,0 +1,4 @@
+- 확률 변수의 분포를 나타내는 함수
+- `f(x) = dF(x) / dx`
+- # Reference
+- https://ko.wikipedia.org/wiki/확률_밀도_함수

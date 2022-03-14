@@ -52,6 +52,9 @@
  {:block/name "b",
   :block/created-at 1641520897539,
   :block/updated-at 1641520897539}
+ {:block/name "bayesian statistics",
+  :block/created-at 1647256382729,
+  :block/updated-at 1647256391380}
  {:block/name "bluetooth",
   :block/created-at 1642571420507,
   :block/updated-at 1642571465453}
@@ -85,6 +88,12 @@
  {:block/name "card",
   :block/created-at 1641520897539,
   :block/updated-at 1641520897539}
+ {:block/name "causality",
+  :block/created-at 1647256752851,
+  :block/updated-at 1647256772110}
+ {:block/name "central limit theorem",
+  :block/created-at 1647256586656,
+  :block/updated-at 1647256599249}
  {:block/name "circuit switching",
   :block/created-at 1642308086631,
   :block/updated-at 1642308221389}
@@ -124,6 +133,9 @@
  {:block/name "cooperative scheduling",
   :block/created-at 1643076566265,
   :block/updated-at 1643076644159}
+ {:block/name "correlation",
+  :block/created-at 1647256676401,
+  :block/updated-at 1647256726696}
  {:block/name "crc",
   :block/created-at 1642206888440,
   :block/updated-at 1642206888440}
@@ -136,6 +148,9 @@
  {:block/name "cryptography salt",
   :block/created-at 1642378716519,
   :block/updated-at 1642378734495}
+ {:block/name "cumulative distribution function",
+  :block/created-at 1647257802854,
+  :block/updated-at 1647257872639}
  {:block/name "data",
   :block/created-at 1642299399745,
   :block/updated-at 1642299413350}
@@ -481,6 +496,9 @@
  {:block/name "macro",
   :block/created-at 1642206888442,
   :block/updated-at 1642206888442}
+ {:block/name "mar 14th, 2022",
+  :block/created-at 1647216000000,
+  :block/updated-at 1647258003058}
  {:block/name "mar 2nd, 2022",
   :block/created-at 1646179200000,
   :block/updated-at 1646199635978}
@@ -514,6 +532,9 @@
  {:block/name "non-preemptive scheduling",
   :block/created-at 1643079580191,
   :block/updated-at 1643079580191}
+ {:block/name "nonparametric statistics",
+  :block/created-at 1647256319878,
+  :block/updated-at 1647256409032}
  {:block/name "now",
   :block/created-at 1641520897539,
   :block/updated-at 1641520897539}
@@ -577,6 +598,9 @@
  {:block/name "paket",
   :block/created-at 1645603312816,
   :block/updated-at 1645603317940}
+ {:block/name "parametric statistics",
+  :block/created-at 1647256143078,
+  :block/updated-at 1647256204137}
  {:block/name "percent encoding",
   :block/created-at 1641547377361,
   :block/updated-at 1641560633618}
@@ -601,6 +625,15 @@
  {:block/name "press embargo",
   :block/created-at 1645661960657,
   :block/updated-at 1645661969304}
+ {:block/name "probability density function",
+  :block/created-at 1647257902064,
+  :block/updated-at 1647257944744}
+ {:block/name "probability space",
+  :block/created-at 1647256901507,
+  :block/updated-at 1647256917763}
+ {:block/name "probability theory",
+  :block/created-at 1647255966029,
+  :block/updated-at 1647256014363}
  {:block/name "python",
   :block/created-at 1643873472258,
   :block/updated-at 1643873472258}
@@ -610,6 +643,9 @@
  {:block/name "rainbow table attack",
   :block/created-at 1642464810646,
   :block/updated-at 1642464810646}
+ {:block/name "random variable",
+  :block/created-at 1647257512124,
+  :block/updated-at 1647257585971}
  {:block/name "raster graphics",
   :block/created-at 1644449238691,
   :block/updated-at 1644450048456}
@@ -652,6 +688,9 @@
  {:block/name "ssh",
   :block/created-at 1641864731947,
   :block/updated-at 1641864929097}
+ {:block/name "statistics",
+  :block/created-at 1647256073512,
+  :block/updated-at 1647256084585}
  {:block/name "stock keeping unit",
   :block/created-at 1645661815094,
   :block/updated-at 1645661815094}
@@ -757,6 +796,30 @@
  {:block/name "관할",
   :block/created-at 1642465226717,
   :block/updated-at 1642465238167}
+ {:block/name "누적분포함수",
+  :block/created-at 1647258040409,
+  :block/updated-at 1647258040409}
  {:block/name "대한민국 전자서명법",
-  :block/created-at 1641865286861, 
-  :block/updated-at 1641865286861}]
+  :block/created-at 1641865286861,
+  :block/updated-at 1641865286861}
+ {:block/name "모수통계",
+  :block/created-at 1647258040409,
+  :block/updated-at 1647258040409}
+ {:block/name "비모수통계",
+  :block/created-at 1647258040408,
+  :block/updated-at 1647258040408}
+ {:block/name "상관성",
+  :block/created-at 1647258040408,
+  :block/updated-at 1647258040408}
+ {:block/name "인과성",
+  :block/created-at 1647258040409,
+  :block/updated-at 1647258040409}
+ {:block/name "중심극한정리",
+  :block/created-at 1647258040408,
+  :block/updated-at 1647258040408}
+ {:block/name "확률공간",
+  :block/created-at 1647258040409,
+  :block/updated-at 1647258040409}
+ {:block/name "확률변수",
+  :block/created-at 1647258040409, 
+  :block/updated-at 1647258040409}]

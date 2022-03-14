@@ -1,0 +1,3 @@
+- 확률에 대해 연구하는 수학의 한 분야이며 비결정론적 현상을 수학적으로 기술하는 것을 목적으로 한다.
+- # Reference
+- https://ko.wikipedia.org/wiki/확률론
